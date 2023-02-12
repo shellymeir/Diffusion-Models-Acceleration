@@ -5,4 +5,4 @@ As the process progresses and the images get less noisy, we add more layers to t
 Our code is based on the code presented on the paper [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502), and the original
 code can be found here: [ddim code](https://github.com/ermongroup/ddim). 
 
-
+For further explanation and our results please refer to [Accelerating Diffusion Models](https://github.com/shellymeir/Diffusion-Models-Acceleration/blob/main/Accelaration_diffusion.pdf)
